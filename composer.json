@@ -1,5 +1,5 @@
 {
-    "name": "tymon/jwt-auth",
+    "name": "hermes/jwt-auth",
     "description": "JSON Web Token Authentication for Laravel and Lumen",
     "keywords": [
         "auth",
@@ -63,12 +63,6 @@
             ]
         }
     },
-    "funding": [
-        {
-            "type": "patreon",
-            "url": "https://www.patreon.com/seantymon"
-        }
-    ],
     "config": {
         "sort-packages": true
     },
